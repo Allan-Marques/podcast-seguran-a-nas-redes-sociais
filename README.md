@@ -1,5 +1,5 @@
 
-# Bem-vindo ao Podcast Segurança Digital com Allan Marques
+# Bem-vindo ao Podcast Segurança Digital nas Redes Sociais com Allan Marques
 
 ## Sobre o Podcast
 Olá, me chamo **Allan Marques** e este é o **Podcast Segurança Digital**, criado com o intuito de informar e educar usuários de redes sociais sobre os riscos mais comuns envolvendo links, anúncios e contas falsas que são frequentemente utilizados para aplicar golpes e trotes online.
